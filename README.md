@@ -2,9 +2,8 @@
 <h3 align="center">Master’s Student in Bioinformatics | Machine Learning & Data Enthusiast</h3>
 
 <p align="center">
-🎓 Master's student in Bioinformatics at Sorbonne University, working at the intersection of <br>
-machine learning, data science, and computational biology. I use Python, R, and various <br>
-bioinformatics tools to analyze complex biological data and develop AI-driven solutions.  
+🎓 Master's student in Bioinformatics at Sorbonne University, working on <br>
+machine learning, data science, and computational biology. <br>  
 </p>
 
 ---
@@ -51,14 +50,6 @@ bioinformatics tools to analyze complex biological data and develop AI-driven so
   </a>
 </p>
 
----
-
-### 📈 **GitHub Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajad&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🤝 **Let's Connect**
 <p align="left">
